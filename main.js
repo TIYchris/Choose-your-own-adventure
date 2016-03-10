@@ -28,7 +28,7 @@ if (game === true) {
             if (chase2 === true) {
                 alert("You see it's Donald Trump and he says \"Scaring America would have worked if it wasn't for you medeling kids!\"" + name + " You won the Game!  Scooby Dooby Doo!");
             } else {
-                alert("Scooby takes of the mask and say's \"Ruh roe it's Donald Trump\" and he says \"Scaring America would have worked if it wasn't for you meddling kids\"")
+                alert("Scooby takes of the mask and say's \"Ruh roe it's Donald Trump\" and he says \"Scaring America would have worked if it wasn't for you meddling kids\"" + name + " You won the Game!  Scooby Dooby Doo!")
             }
         } else {
             alert("You Scooby and Shaggy run out the door at least you still have the \"SCOOBY SNACKS\"!  Sorry " + name + " the game is over");
